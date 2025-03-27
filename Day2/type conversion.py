@@ -10,3 +10,4 @@
 print("Number of characters in your name: " + str(len(input("Enter your name: \n"))))
 
 # print(str(len(input("enter your name : \n"))))
+print("test")
